@@ -1,4 +1,4 @@
-# DataAnalytics_OrderBrushing-[ECommerce]
+# Order-Brushing-Detection 
 
 This repo contains data and code for Order Brushing Detection Task in E-Commerce Industry, part of Shopee Code League Competition hosted on Kaggle.
 
