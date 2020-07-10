@@ -2,7 +2,7 @@
 
 ### Short Description of Repository
 
-This repo contains data and R code for Order Brushing Detection Task in E-Commerce Industry, part of the Shopee Code League 2020 Competition hosted on Kaggle.
+This repo contains data and R code for Order Brushing Detection Task in E-Commerce Industry, part of the 2020 Shopee Code League Competition hosted on Kaggle.
 
 1. If you not familiar with the term, it refers to seller misconduct activity done by creating fake transactions (i.e buyer-bot). This act, according to Shopee's Terms of Service, is illegal.
 
