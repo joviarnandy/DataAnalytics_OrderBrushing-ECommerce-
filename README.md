@@ -10,7 +10,7 @@ This repo contains data and R code for Order Brushing Detection Task in E-Commer
 
 3. If the transaction volume done by seller-buyer reached a certain threshold (for our purposes, let's say it's 3) within a one-hour interval, then we can suspect the seller might have done order brushing.
 
-4. If that's the case, then we put seller id and list of buyer-bot (with format "buyer1&buyer2&buyer3&...&buyerN") side by side. Else, we put the seller and "0" side by side.
+4. If that's the case, then we put seller ID and list of buyer-bot (with format "buyer1&buyer2&buyer3&...&buyerN") side by side. Else, we put seller ID and "0" side by side.
 
 ### Motivation
 
