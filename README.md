@@ -14,6 +14,6 @@ This repo contains data and R code for Order Brushing Detection Task in E-Commer
 
 ### Motivation
 
-This task is important because we want to protect the endorsement system integrity within said E-Commerce company. 
+This task is important because we want to protect the integrity of endorsement system within said E-Commerce company's website. 
 
 
