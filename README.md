@@ -1,6 +1,6 @@
 # Order-Brushing-Detection 
 
-### Short Description of Repo
+### Short Description of Repository
 
 This repo contains data and R code for Order Brushing Detection Task in E-Commerce Industry, part of Shopee Code League Competition hosted on Kaggle.
 
@@ -14,6 +14,6 @@ This repo contains data and R code for Order Brushing Detection Task in E-Commer
 
 ### Motivation
 
-1. This task is important because we want to protect the endorsement system integrity within said E-Commerce company. 
+This task is important because we want to protect the endorsement system integrity within said E-Commerce company. 
 
 
