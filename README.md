@@ -22,4 +22,4 @@ Pardon my messy writing on several lines of code.
 
 ### TODO
 
-Upload short tutorial in the future when time permits.
+Upload short tutorials in the future when time permits.
