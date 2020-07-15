@@ -112,7 +112,7 @@ submission = submission %>%
 
 
 #write submission's csv file
-write.csv(submission,"submission.csv")
+write.csv(submission,"submission.csv",row.names=FALSE)
 cat("\014")
 
 
